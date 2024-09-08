@@ -60,7 +60,7 @@ You can train different transformer models (DistilBERT, BERT, ALBERT, RoBERTa) f
 ```bash
 python train.py --model_name bert-base-uncased
 ```
-For gpt2:
+For `gpt2`:
 ```bash
 python train_gpt2.py --model_name gpt2
 ```
