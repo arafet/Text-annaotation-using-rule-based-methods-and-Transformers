@@ -1,5 +1,5 @@
 
-# Enron Email Data Annotation and Transformer Model Training
+# Assessing the Efficiency of Transformer Models with Varying Sizes for Text Classification: A Study of Rule-Based Annotation with DistilBERT and Other Transformers.
 
 This project allows users to annotate the Enron email dataset, train various transformer-based models, and test them on the annotated dataset.
 
