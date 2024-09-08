@@ -1,0 +1,9 @@
+transformers==4.28.0
+datasets
+numpy
+torch
+tensorflow
+nltk
+pandas
+email  # For email parsing
+openpyxl  # Required for saving DataFrames to Excel
