@@ -20,7 +20,9 @@ pip install -r requirements.txt
 Ensure your project structure looks like this:
 
 ```
+/checkpoints
 /data
+    annotated_data_balanced.csv # Balanced data after rule-based annotation 
     email.csv  # The downloaded dataset
 enron_data_annotation.py  # Script to annotate the data
 train.py  # Script to train the model
@@ -46,7 +48,7 @@ python enron_data_annotation.py --input data/email.csv
 
 ## 3. Train Transformer Models
 
-You can train different transformer models (DistilBERT, BERT, ALBERT, RoBERTa) for email classification using the provided `train.py` script.
+You can train different transformer models (DistilBERT, BERT, ALBERT, RoBERTa) for email classification using the provided `train.py` script. If you want to test the distilbert model download the following [checkpoints](https://drive.google.com/drive/folders/1RFWAaTGGvFSg3gdvaopzg_RksLqxqkpi?usp=drive_link) and place the folder distilbert within checkpoints folder. 
 
 ### Supported Models:
 - `distilbert-base-uncased`
