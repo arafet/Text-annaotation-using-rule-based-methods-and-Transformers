@@ -22,6 +22,8 @@ Ensure your project structure looks like this:
 ```
 /data
     email.csv  # The downloaded dataset
+/checkpoints
+    model_name
 enron_data_annotation.py  # Script to annotate the data
 train.py  # Script to train the model
 train_gpt2.py #Script to train gpt2
