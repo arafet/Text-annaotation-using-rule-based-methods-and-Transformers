@@ -84,4 +84,5 @@ If you find this link useful, please cite the following papers:
 
 1. **Sbei, A., ElBedoui, K., & Barhoumi, W. (2024, April).** Synergistic Text Annotation Based on Rule-Based Expressions and DistilBERT. In *Asian Conference on Intelligent Information and Database Systems* (pp. 408-422). Singapore: Springer Nature Singapore.
 
-2. **Sbei, A., ElBedoui, K., & Barhoumi, W.** Assessing the Efficiency of Transformer Models with Varying Sizes for Text Classification: A Study of Rule-Based Annotation with DistilBERT and Other Transformers. (Under Review).
+2. **Sbei, A., ElBedoui, K., & Barhoumi, W. (2024)**. Assessing the Efficiency of Transformer Models with Varying Sizes for Text Classification: A Study of Rule-Based Annotation with DistilBERT and Other Transformers. Vietnam Journal of Computer Science.
+
